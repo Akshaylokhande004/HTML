@@ -1,0 +1,41 @@
+.card{
+    width: 270px;
+    padding: 10px;
+    margin: 10px auto;
+    border-radius: 14px;
+    border: 1px solid lightgray;
+}
+.card-img{
+    width: 100%;
+    border-radius: 14px;
+}
+.promotion{
+    width: 270px;
+    padding: 10px;
+    margin: 10px auto;
+    border-radius: 14px;
+    background-color: rgb(255, 81, 46);
+    border: 1px solid rgb(255, 81, 46);
+    color: white;
+    position: sticky;
+    top:0
+}
+.title{
+    margin-top: 6px;
+    margin-bottom: 3px;
+}
+.desc{
+    margin: 0;
+    font-size: 14px;
+}
+.help-btn{
+    background-color: black;
+    padding: 14px 32px;
+    border:none;
+    font-size: 16px;
+    color: white;
+    border-radius: 40px;
+    position: fixed;
+    bottom:60px;
+    right: 40px;
+}
